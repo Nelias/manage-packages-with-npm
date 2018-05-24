@@ -1,0 +1,25 @@
+{
+  "name": "@nelias/manage-packages-with-npm",
+  "version": "1.0.0",
+  "description": "free-code-camp-task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelias",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelias/manage-packages-with-npmf.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "bugs": {
+    "url": "https://github.com/Nelias/manage-packages-with-npmf/issues"
+  },
+  "homepage": "https://github.com/Nelias/manage-packages-with-npmf#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
