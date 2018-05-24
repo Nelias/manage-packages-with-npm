@@ -1,6 +1,6 @@
 {
   "name": "@nelias/manage-packages-with-npm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "free-code-camp-task",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,5 @@
     "url": "https://github.com/Nelias/manage-packages-with-npmf/issues"
   },
   "homepage": "https://github.com/Nelias/manage-packages-with-npmf#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
